@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="et_user_name" type="id" />
+    <item name="et_user_email" type="id" />
+    <item name="btn_save" type="id" />
+</resources>
